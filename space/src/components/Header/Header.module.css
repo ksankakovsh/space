@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 0 auto;
+    max-width: 1510px;
+    width: 100%;
+    align-items: center;
+}
+.nav {
+    background: rgba(255, 255, 255, 0.04);
+backdrop-filter: blur(40.774227142333984px);
+display: flex;
+justify-content: space-evenly;
+max-width: 830px;
+width: 100%;
+
+}
+.nav_item {
+    color: #FFF;
+font-family: Barlow Condensed;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 90px;
+letter-spacing: 2.7px;
+text-transform: uppercase;
+}
+.nav_item span {
+    font-weight: 700;
+}
